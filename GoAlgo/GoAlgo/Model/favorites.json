@@ -1,0 +1,51 @@
+[
+    {
+        "ticker": "AAPL",
+        "fullName": "Apple Inc.",
+        "id": 1,
+        "priceNow": 176.08,
+        "priceDifferent": 27.19
+    },
+    {
+        "ticker": "AMZN",
+        "fullName": "Amazon.com, Inc.",
+        "id": 8,
+        "priceNow": 422.64,
+        "priceDifferent": 13.02
+    },
+    {
+            "ticker": "MSFT",
+            "fullName": "Microsoft Corporation",
+            "id": 2,
+            "priceNow": 290.30,
+            "priceDifferent": -10.00
+        },
+        {
+            "ticker": "AMZN",
+            "fullName": "Amazon.com, Inc.",
+            "id": 3,
+            "priceNow": 3200.50,
+            "priceDifferent": 95.22
+        },
+        {
+            "ticker": "TSLA",
+            "fullName": "Tesla, Inc.",
+            "id": 4,
+            "priceNow": 700.00,
+            "priceDifferent": 19.24
+        },
+        {
+            "ticker": "FB",
+            "fullName": "Facebook, Inc.",
+            "id": 5,
+            "priceNow": 350.00,
+            "priceDifferent": -8.94
+        },
+        {
+            "ticker": "GOOGL",
+            "fullName": "Alphabet Inc.",
+            "id": 6,
+            "priceNow": 2750.00,
+            "priceDifferent": 15.74
+        }
+]
